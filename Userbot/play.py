@@ -18,17 +18,17 @@ from Userbot.helpers.queues import QUEUE, add_to_queue, get_queue
 
 AMBILFOTO = [
     "https://telegra.ph/file/de20b441bf066f2fc7f3f.jpg",
+    "https://telegra.ph/file/1fd8f8d9164e0fdd67ea1.png",
     "https://telegra.ph/file/de20b441bf066f2fc7f3f.jpg",
+    "https://telegra.ph/file/1fd8f8d9164e0fdd67ea1.png",
+    "https://telegra.ph/file/1fd8f8d9164e0fdd67ea1.png",
     "https://telegra.ph/file/de20b441bf066f2fc7f3f.jpg",
+    "https://telegra.ph/file/1fd8f8d9164e0fdd67ea1.png",
+    "https://telegra.ph/file/1fd8f8d9164e0fdd67ea1.png",
     "https://telegra.ph/file/de20b441bf066f2fc7f3f.jpg",
+    "https://telegra.ph/file/1fd8f8d9164e0fdd67ea1.png",
     "https://telegra.ph/file/de20b441bf066f2fc7f3f.jpg",
-    "https://telegra.ph/file/de20b441bf066f2fc7f3f.jpg",
-    "https://telegra.ph/file/de20b441bf066f2fc7f3f.jpg",
-    "https://telegra.ph/file/de20b441bf066f2fc7f3f.jpg",
-    "https://telegra.ph/file/de20b441bf066f2fc7f3f.jpg",
-    "https://telegra.ph/file/de20b441bf066f2fc7f3f.jpg",
-    "https://telegra.ph/file/de20b441bf066f2fc7f3f.jpg",
-    "https://telegra.ph/file/de20b441bf066f2fc7f3f.jpg",
+    "https://telegra.ph/file/1fd8f8d9164e0fdd67ea1.png",
 ]
 
 IMAGE_THUMBNAIL = random.choice(AMBILFOTO)
@@ -146,7 +146,7 @@ async def play(client, m: Message):
                 await huehue.delete()
                 # await m.reply_to_message.delete()
                 await m.reply_photo(
-                    photo="https://telegra.ph/file/de20b441bf066f2fc7f3f.jpg",
+                    photo="https://telegra.ph/file/1fd8f8d9164e0fdd67ea1.png",
                     caption=f"""
 **✧ Mulai Memutar Lagu
 ✧ Judul: [{songname}]({link})
@@ -269,7 +269,7 @@ async def videoplay(client, m: Message):
                 await huehue.delete()
                 # await m.reply_to_message.delete()
                 await m.reply_photo(
-                    photo="https://telegra.ph/file/de20b441bf066f2fc7f3f.jpg",
+                    photo="https://telegra.ph/file/1fd8f8d9164e0fdd67ea1.png",
                     caption=f"""
 **✧ Mulai Memutar Video
 ✧ Judul: [{songname}]({link})
