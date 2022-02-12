@@ -14,7 +14,9 @@
 </p>
 
 
-    ✘ᴍᴇᴛᴏᴅᴇ ᴅᴇᴘʟᴏʏ✘
+<h2 align="center">
+   ✘ᴍᴇᴛᴏᴅᴇ ᴅᴇᴘʟᴏʏ✘
+</h2>
 
 <p align="center">
 <a href="https://dashboard.heroku.com/new?template=https://github.com/IndomieGorengSatu/Indomie-Music"><img src="https://www.herokucdn.com/deploy/button.png" alt="Deploy to Heroku" target="_blank""/</a>
