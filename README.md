@@ -9,8 +9,12 @@
     </p>
 
 
-    ✘𝗠𝘂𝘀𝗶𝗰 𝗨𝘀𝗲𝗿𝗯𝗼𝘁 𝗧𝗼 𝗗𝗲𝗽𝗹𝗼𝘆 𝗢𝗻 𝗛𝗲𝗿𝗼𝗸𝘂✘
-<img src="https://telegra.ph/file/de20b441bf066f2fc7f3f.jpg">
+<p align="center">
+  <img src=<img src="https://telegra.ph/file/de20b441bf066f2fc7f3f.jpg">
+</p>
+
+
+    ✘ᴍᴇᴛᴏᴅᴇ ᴅᴇᴘʟᴏʏ✘
 
 <p align="center">
 <a href="https://dashboard.heroku.com/new?template=https://github.com/IndomieGorengSatu/Indomie-Music"><img src="https://www.herokucdn.com/deploy/button.png" alt="Deploy to Heroku" target="_blank""/</a>
