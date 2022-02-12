@@ -28,3 +28,12 @@
 | `+playlist` | show you all the current | stream list |
 | `+song` | download music from youtube |
 | `+stop` | end the streaming (admin only) |
+
+
+## © Credits
+
+🏆 **THIS REPO FORK FROM**
+*   [Zaen](https://github.com/Zaen-ubot) :  Zaen Music
+
+## License
+Licensed under [Raphielscape Public License](https://github.com/IndomieGorengSatu/Indomie-Userbot/blob/Indomie-Music/LICENSE) - Version 3, 29 June 2007
