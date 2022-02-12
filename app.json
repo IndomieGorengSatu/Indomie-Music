@@ -1,13 +1,13 @@
 {
-    "name": " Zaen Music And Video Player",
+    "name": " Indomie Music And Video Player",
     "description": "UserBot Untuk Memutar Lagu Dan Video Di Obrolan Suara Telegram.",
-    "logo": "https://telegra.ph/file/4219866eba63bcac65527.jpg",
+    "logo": "https://telegra.ph/file/de20b441bf066f2fc7f3f.jpg",
     "keywords": [
         "Telegram",
         "MusicPlayer",
         "VideoPlayer"
     ],
-    "repository": "https://github.com/Zaen-ubot/ZaenMusic",
+    "repository": "https://github.com/IndomieGorengSatu/Indomie-Music",
     "env": {
         "SESSION": {
             "description": "Pyrogram String Session",
