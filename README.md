@@ -1,6 +1,5 @@
-#         ✘𝕴𝖓𝖉𝖔𝖒𝖎𝖊𝕸𝖚𝖘𝖎𝖈✘
+<h1 align="center"><img src="./resources/extras/Indomiepurple.gif" width="35px">✘𝕴𝖓𝖉𝖔𝖒𝖎𝖊𝕸𝖚𝖘𝖎𝖈✘<img src="./resources/extras/Indomiepurple.gif" width="35px"></h1>
 
-</p>
 <p align="center">
     <a href="https://github.com/IndomieGorengSatu/Indomie-Music/commits/Indomi-Music"><img src="https://img.shields.io/github/last-commit/IndomieGorengSatu/Indomie-Music?color=ff0000&logo=github&logoColor=ffffff&style=for-the-badge" /></a>
     <a href="https://github.com/IndomieGorengSatu/Indomie-Music"> <img src="https://img.shields.io/github/repo-size/IndomieGorengSatu/Indomie-Music?logo=github&style=for-the-badge" /></a>
@@ -13,6 +12,13 @@
   <img src=<img src="https://telegra.ph/file/de20b441bf066f2fc7f3f.jpg">
 </p>
 
+
+# <img src="./resources/extras/GeezFire.gif" width="20px"> Disclaimer
+
+```
+Saya tidak bertanggung jawab atas penyalahgunaan bot ini.
+Gunakan bot ini dengan risiko Anda sendiri, dan gunakan dengan bijak.
+```
 
 <h2 align="center">
    ✘ᴍᴇᴛᴏᴅᴇ ᴅᴇᴘʟᴏʏ✘
